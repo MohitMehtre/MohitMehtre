@@ -57,6 +57,10 @@ Currently exploring **frontend, backend, cloud computing, and blockchain**, and 
 
 ---
 
+[![An image of @mohitmehtre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitmehtre)](https://holopin.io/@mohitmehtre)
+
+---
+
 ## 🤝 Connect with Me  
 - Portfolio: [my-portfolio](https://portfolio-design-mohit.netlify.app/)  
 - LinkedIn: [linkedin.com/in/mohit-mehtre](https://www.linkedin.com/in/mohit-mehtre-5928b1244/)  
