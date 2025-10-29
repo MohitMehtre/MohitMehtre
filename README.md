@@ -62,8 +62,7 @@ Currently exploring **frontend, backend, cloud computing, and blockchain**, and 
 ---
 
 ## 🤝 Connect with Me  
-- Portfolio: [my-portfolio](https://portfolio-design-mohit.netlify.app/)  
-- LinkedIn: [linkedin.com/in/mohit-mehtre](https://www.linkedin.com/in/mohit-mehtre-5928b1244/)  
+- Portfolio: [my-portfolio](https://portfolio-design-mohit.netlify.app/) 
 - Email: mohitmehtre@gmail.com  
 
 ---
