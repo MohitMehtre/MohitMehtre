@@ -132,7 +132,7 @@ Author: Mohit Mehtre
 
 <p align="center">
   <a href="https://holopin.io/@mohitmehtre">
-    <img src="https://holopin.me/mohitmehtre" alt="Holopin Badge Board" width="70%"/>
+    <img src="https://holopin.me/mohitmehtre" alt="Holopin Badge Board" width="100%"/>
   </a>
 </p>
 
