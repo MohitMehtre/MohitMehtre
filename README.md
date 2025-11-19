@@ -4,16 +4,19 @@
 Author: Mohit Mehtre
 -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Mohit Mehtre</span></h1>
+<div align="center">
+  <h3>
+    <i>Building clean, responsive, and creative user experiences for the web.</i>  
+  </h3>
+</div>
 
-<p align="center">
-  🚀 <b>Frontend Developer</b> | 🎨 <b>UI/UX Enthusiast</b> | ☁️ <b>Cloud Learner</b> | 🔗 <b>Open Source Contributor</b><br/>
-  <i>“Building clean, responsive, and creative user experiences for the web.”</i>
-</p>
 
----
 
-### 🧠 About Me  
+<!-- ### 🧠 About Me  -->
+<h3><a href="https://github.com/MohitMehtre">
+    <img src="https://media.tenor.com/Lu3ZB5FTDdwAAAAj/duong2.gif" width="40" align="absmiddle">
+</a> About Me </h3>
+
 
 - 💻 Frontend-focused developer passionate about clean interfaces and performance.  
 - 🌍 Interested in web, open-source, and creative problem-solving.  
@@ -21,63 +24,33 @@ Author: Mohit Mehtre
 - 🌱 Aspiring <b>Google Summer of Code 2026</b> contributor.  
 - 🔄 Always open to learning, collaboration, and growth.  
 
----
-
-### 🛠️ Tech Stack  
-
-<table align="center">
-  <tr>
-    <!-- Left Column: Logos -->
-    <td align="center" width="45%">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55"/></a>
-      <a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=python" width="55"/></a>
-      <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" width="55"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="55"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="55"/></a>
-      <br/><br/>
-      <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="55"/></a>
-      <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/></a>
-      <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/></a>
-      <a href="https://getbootstrap.com/docs/"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/></a>
-      <br/><br/>
-      <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></a>
-      <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="55"/></a>
-      <a href="https://docs.soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" width="55"/></a>
-      <br/><br/>
-      <a href="https://www.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" width="55"/></a>
-      <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/></a>
-      <a href="https://aws.amazon.com/documentation/"><img src="https://skillicons.dev/icons?i=aws" width="55"/></a>
-      <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" width="55"/></a>
-      <a href="https://docs.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="55"/></a>
-      <br/><br/>
-      <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" width="55"/></a>
-      <a href="https://docs.github.com/en"><img src="https://skillicons.dev/icons?i=github" width="55"/></a>
-    </td>
-    <!-- Right Column: Properly Rendered HTML Table -->
-    <td width="55%" align="left" valign="middle">
-      <table>
-        <tr><th>Category</th><th>Technologies</th></tr>
-        <tr><td>🎨 Frontend</td><td>HTML5, CSS3, Tailwind CSS, Bootstrap, React, Next.js</td></tr>
-        <tr><td>💻 Languages</td><td>JavaScript, Python, Java, SQL</td></tr>
-        <tr><td>✨ UI & Animation</td><td>Framer Motion, GSAP</td></tr>
-        <tr><td>⚙️ Backend (Familiar)</td><td>Node.js, Express.js, Flask, Django</td></tr>
-        <tr><td>⛓️ Blockchain (Familiar)</td><td>Solidity, Hardhat, IPFS, Metamask</td></tr>
-        <tr><td>🗄️ Database</td><td>MySQL, MongoDB, Drizzle ORM</td></tr>
-        <tr><td>☁️ Cloud & Deployment</td><td>AWS (Basics), Vercel, Netlify</td></tr>
-        <tr><td>🔧 Tools</td><td>Git/GitHub, REST APIs, AJAX</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
 
 
+<br clear="both"/>
 
+<!-- ### 🏆 Achievements & Badges -->  
+<h3><a href="https://github.com/MohitMehtre">
+    <img src="https://media.tenor.com/KeqbuC5yrgUAAAAi/deal-with-it-trailblazer.gif" width="60" align="absmiddle">
+</a> Achievements & Badges - </h3>
 
+<p align="center">
+  <a href="https://holopin.io/@mohitmehtre">
+    <img src="https://holopin.me/mohitmehtre" alt="Holopin Badge Board" width="100%"/>
+  </a>
+</p>
 
+<p align="center">
+  🎖️ <b>Holopin Badge Board:</b> My personal collection of digital badges earned from open-source events and achievements, including my <b>Hacktoberfest 2025 Super Contributor</b> badge.<br/>
+  🔗 <a href="https://holopin.io/@mohitmehtre">View Full Badge Board</a>
+</p>
 
----
+<br clear="both"/>
 
-### 🧩 Problem Solving  
+<!-- ### 🧩 Problem Solving -->  
+
+<h3><a href="https://github.com/MohitMehtre">
+    <img src="https://media.tenor.com/COSCMy1OncgAAAAj/inunaka-akari.gif" width="50" align="absmiddle">
+</a> Problem Solving - </h3>
 
 <div align="center">
 
@@ -104,20 +77,52 @@ Author: Mohit Mehtre
   </a>
 </p>
 
----
+<br clear="both"/>
 
-### 💡 Featured Projects  
+<!-- ### 🛠️ Tech Stack  -->
 
-🔗 [**BlockID**](#) – Decentralized ID storage & sharing using IPFS + Blockchain.  
-🔗 [**Better Splyt (UI Clone)**](https://better-splyt.netlify.app/) – Modern website clone with scroll animations & image sequences.  
-🔗 [**AI Exam Paper Generator**](https://ai-exam-paper-generator.onrender.com/) – project with clean UI/UX and working api, hosted on render.
-🔗 [**Earthquake Visualizer**](https://earthhquake-visualizer.netlify.app/) – Fullstack project with clean UI/UX and fetching realtime earthquake data, hosted on Netlify.
-🔗 [**Esports Mandir – E-commerce Frontend UI**](https://esports-mandir-live.netlify.app/) – Frontend project with clean UI/UX, hosted on Netlify.
-🔗 [**Social Media Settings UI**](https://konnichiwa-social-live.netlify.app/) – Frontend project with clean UI/UX, hosted on Netlify.  
+<h3><a href="https://github.com/MohitMehtre">
+    <img src="https://media.tenor.com/062Vi0AsY1cAAAAj/anime-shupogaki.gif" width="50" align="absmiddle">
+</a> Tech Stack </h3>
 
----
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=python" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://getbootstrap.com/docs/"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://docs.soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://www.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://aws.amazon.com/documentation/"><img src="https://skillicons.dev/icons?i=aws" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://docs.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://docs.github.com/en"><img src="https://skillicons.dev/icons?i=github" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=typescript" width="40" style="margin: 0 10px;"/></a>
+  
+  <!-- Additional Tech Stack Suggestions -->
+  <!-- <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://kubernetes.io/docs/"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://firebase.google.com/docs"><img src="https://skillicons.dev/icons?i=firebase" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://www.rabbitmq.com/documentation.html"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" style="margin: 0 10px;"/></a>
+  <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html"><img src="https://skillicons.dev/icons?i=elasticsearch" width="40" style="margin: 0 10px;"/></a> -->
+</div>
 
-### 📊 GitHub Overview  
+
+<br clear="both"/>
+
+<!-- ### 📊 GitHub Overview  -->
+
+<h3><a href="https://github.com/MohitMehtre">
+    <img src="https://media.tenor.com/laNVq3HwQ_EAAAAj/d-sad.gif" width="60" align="absmiddle">
+</a> GitHub Overview </h3>
 
 <p align="center">
   <a href="https://github.com/mohitmehtre" target="_blank">
@@ -126,24 +131,24 @@ Author: Mohit Mehtre
   </a>
 </p>
 
----
+<br clear="both"/>
 
-### 🏆 Achievements & Badges  
+<!-- ### Visit Counter -->
+ ### 👀 Visit Counter 
 
-<p align="center">
-  <a href="https://holopin.io/@mohitmehtre">
-    <img src="https://holopin.me/mohitmehtre" alt="Holopin Badge Board" width="100%"/>
-  </a>
-</p>
+<img src="https://count.getloli.com/@mohitmehtre?name=mohitmehtre&theme=yousa-ling&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto">
 
-<p align="center">
-  🎖️ <b>Holopin Badge Board:</b> My personal collection of digital badges earned from open-source events and achievements, including my <b>Hacktoberfest 2025 Super Contributor</b> badge.<br/>
-  🔗 <a href="https://holopin.io/@mohitmehtre">View Full Badge Board</a>
-</p>
+<img src="https://count.getloli.com/@mohitmehtre?name=mohitmehtre&theme=booru-yuyuyui&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto">
 
----
 
-### 🤝 Connect with Me  
+<br clear="both"/>
+
+<!-- <h3><img src="https://media.tenor.com/Lu3ZB5FTDdwAAAAj/duong2.gif" width="60" align="absmiddle"> Let's Connect - </h3> -->
+<!-- <h3><img src="https://media.tenor.com/PwTEOF3aDsYAAAAj/rip-taylor.gif" width="60" align="absmiddle"> Let's Connect - </h3> -->
+<h3><a href="https://github.com/MohitMehtre">
+    <img src="https://media.tenor.com/PwTEOF3aDsYAAAAj/rip-taylor.gif" width="60" align="absmiddle">
+</a> Let's Connect - </h3>
+
 
 <p align="center">
   <a href="https://portfolio-design-mohit.netlify.app/" target="_blank">
@@ -160,7 +165,9 @@ Author: Mohit Mehtre
   </a>
 </p>
 
----
+
+
+<br clear="both"/>
 
 <p align="center">
   ⭐ <b>“Code. Create. Contribute.”</b> ⭐
