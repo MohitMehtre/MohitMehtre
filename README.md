@@ -18,11 +18,11 @@ Author: Mohit Mehtre
 </a> About Me </h3>
 
 
-- 💻 Frontend-focused developer passionate about clean interfaces and performance.  
-- 🌍 Interested in web, open-source, and creative problem-solving.  
+<!-- - 💻 Frontend-focused developer passionate about clean interfaces and performance.  -->
+<!-- - 🌍 Interested in web, open-source, and creative problem-solving. --> 
 - 🏅 <b>Hacktoberfest 2025 Super Contributor</b>  
-- 🌱 Aspiring <b>Google Summer of Code 2026</b> contributor.  
-- 🔄 Always open to learning, collaboration, and growth.  
+<!--- 🌱 Aspiring <b>Google Summer of Code 2026</b> contributor.-->  
+-  Open to Work.  
 
 
 
@@ -159,9 +159,6 @@ Author: Mohit Mehtre
   </a>
   <a href="https://leetcode.com/u/MohitMehtre/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mohitmehtre">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
