@@ -20,9 +20,12 @@ Author: Mohit Mehtre
 
 <!-- - 💻 Frontend-focused developer passionate about clean interfaces and performance.  -->
 <!-- - 🌍 Interested in web, open-source, and creative problem-solving. --> 
-- 🏅 <b>Hacktoberfest 2025 Super Contributor</b>  
+-   I enjoy building clean and thoughtful software.
+-   Always exploring new tools and improving my craft.
+-  <b>Hacktoberfest 2025 Super Contributor</b>  
+-   Open to work and new opportunities.
 <!--- 🌱 Aspiring <b>Google Summer of Code 2026</b> contributor.-->  
--  Open to Work.  
+
 
 
 
@@ -151,13 +154,13 @@ Author: Mohit Mehtre
 
 
 <p align="center">
-  <a href="https://portfolio-design-mohit.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://portfolio-design-mohit.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:mohitmehtre@gmail.com">
+  <a href="mailto:mohitmehtre@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/MohitMehtre/">
+  <a href="https://leetcode.com/u/MohitMehtre/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
