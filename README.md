@@ -128,8 +128,10 @@ Author: Mohit Mehtre
 </a> GitHub Overview </h3>
 
 <p align="center">
-  <a href="https://github.com/mohitmehtre" target="_blank">
+  <!-- <a href="https://github.com/mohitmehtre" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=mohitmehtre&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  </a> -->
+  <a href="https://github.com/mohitmehtre" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmehtre&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
   </a>
 </p>
