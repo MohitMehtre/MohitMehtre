@@ -123,18 +123,35 @@ Author: Mohit Mehtre
 
 <!-- ### 📊 GitHub Overview  -->
 
-<h3><a href="https://github.com/MohitMehtre">
+<h3>
+  <a href="https://github.com/MohitMehtre">
     <img src="https://media.tenor.com/laNVq3HwQ_EAAAAj/d-sad.gif" width="60" align="absmiddle">
-</a> GitHub Overview </h3>
+  </a> 
+  GitHub Overview
+</h3>
 
 <p align="center">
-  <!-- <a href="https://github.com/mohitmehtre" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohitmehtre&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  </a> -->
-  <a href="https://github.com/mohitmehtre" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmehtre&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/MohitMehtre" target="_blank">
+    <img 
+      src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=MohitMehtre&show_icons=true&theme=tokyonight&title_color=cba6f7&border_color=45475a" 
+      alt="GitHub Stats" 
+      height="165"
+    />
   </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/MohitMehtre" target="_blank">
+    <img 
+      src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=MohitMehtre&layout=compact&theme=tokyonight&title_color=cba6f7&border_color=45475a" 
+      alt="Top Languages" 
+      height="165"
+    />
+  </a>
+
 </p>
+
 
 <br clear="both"/>
 
